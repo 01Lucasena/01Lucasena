@@ -28,9 +28,11 @@ Aprendizagem contínua e novas tecnologias
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
+## GitHub Stats 📈
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Lucasena&show_icons=true&theme=onedark) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Lucasena&hide_progress=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Lucasena&show_progress=true&theme=onedark)
 
 
 Vamos codar juntos! 💻✨
