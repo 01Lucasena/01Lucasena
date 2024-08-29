@@ -2,26 +2,6 @@
 
 
 
-
-
-👋🏼 Olá! Sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀
-
-Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
-
-💡 Interesses:
-
-Desenvolvimento web
-Aplicações móveis
-Inteligência Artificial
-Aprendizagem contínua e novas tecnologias
-
-📚 Sempre buscando aprender algo novo e colaborar com a comunidade. Sinta-se à vontade para explorar meus projetos e entrar em contato para trocar ideias!
-
-
-🏫 Desenlolvimento de Sistemas - SENAI DENDEZEIROS (2024 - 2025)
-
-🏠 Salvador - BA
-
 #### Contatos 📧
 <div>
  
