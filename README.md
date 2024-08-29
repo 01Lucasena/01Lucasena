@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/f436eb62-1eb2-4f15-8775-cb022cb6416c)
+
 # Olá! Eu sou Lucas Sena 👋🏼
 
 #### 👋🏼 Olá! Eu sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀 Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
