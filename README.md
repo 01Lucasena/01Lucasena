@@ -1,5 +1,9 @@
 # Olá! eu sou Lucas Sena 👋🏼
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Lucasena&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Lucasena&hide_progress=true)
+
+
 👋🏼 Olá! Sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀
 
 Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
@@ -28,7 +32,7 @@ Aprendizagem contínua e novas tecnologias
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Lucasena&show_icons=true&theme=onedark)
+
 
 
 Vamos codar juntos! 💻✨
