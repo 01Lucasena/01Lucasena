@@ -1,6 +1,6 @@
-## Olá, eu sou Lucas Sena 👋🏼
+# Olá! eu sou Lucas Sena 👋🏼
 
-👋 Olá! Sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀
+👋🏼 Olá! Sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀
 
 Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
 
@@ -20,7 +20,7 @@ Aprendizagem contínua e novas tecnologias
 
 #### Contatos 📧
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/lucas-sena-36164729b/) ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/iamlucasena/) ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:lucasena.dev@gmail.com)
+[linkedin(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sena-36164729b/) [instagram(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamlucasena/) [gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasena.dev@gmail.com)
 
 #### ☕ Tecnologias que eu uso no meu dia-a-dia ☕
 
