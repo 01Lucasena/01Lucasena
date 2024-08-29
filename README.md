@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/f436eb62-1eb2-4f15-8775-cb022cb6416c)
+![github-header-image (1)](https://github.com/user-attachments/assets/4d5053ec-bd9c-4d50-8501-93b0814dcfe5)
 
 # Olá! Eu sou Lucas Sena 👋🏼
 
