@@ -1,17 +1,18 @@
 # Olá! Eu sou Lucas Sena 👋🏼
 
-👋🏼 Olá! Eu sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀
+#### 👋🏼 Olá! Eu sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀 Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
 
-Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
+## 💡 Interesses:
 
-💡 Interesses:
+- Desenvolvimento web
 
-Desenvolvimento web
-Aplicações móveis
-Inteligência Artificial
-Aprendizagem contínua e novas tecnologias
+- Aplicações móveis
 
-📚 Sempre buscando aprender algo novo e colaborar com a comunidade. Sinta-se à vontade para explorar meus projetos e entrar em contato para trocar ideias!
+- Inteligência Artificial
+
+- Aprendizagem contínua e novas tecnologias 📚 
+
+#### Sempre buscando aprender algo novo e colaborar com a comunidade. Sinta-se à vontade para explorar meus projetos e entrar em contato para trocar ideias!
 
 
 ## Contatos 📧
@@ -32,4 +33,4 @@ Aprendizagem contínua e novas tecnologias
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=01Lucasena&show_icons=true&theme=onedark"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Lucasena&show_progress=true&theme=onedark">
 
-Vamos codar juntos! 💻✨
+#### Vamos codar juntos! 💻✨
