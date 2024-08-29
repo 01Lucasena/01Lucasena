@@ -30,7 +30,6 @@ Aprendizagem contínua e novas tecnologias
 
 ## GitHub Stats 📈
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01Lucasena&show_icons=true&theme=onedark)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01Lucasena&show_progress=true&theme=onedark)
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=01Lucasena&show_icons=true&theme=onedark"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Lucasena&show_progress=true&theme=onedark">
 
 Vamos codar juntos! 💻✨
