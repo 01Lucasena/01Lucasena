@@ -1,8 +1,9 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/4d5053ec-bd9c-4d50-8501-93b0814dcfe5)
+<img width="1161" height="418" alt="Captura de tela 2025-08-27 144804" src="https://github.com/user-attachments/assets/9acf078d-9024-4290-9cc6-fd6f004b094d" />
 
-# Olá! Eu sou Lucas Sena 👋🏼
 
-#### 👋🏼 Olá! Eu sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀 Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
+# Olá! Eu sou Lucas Sena 
+
+#### Sou Lucas Sena, um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e inovação. 🚀 Atualmente estou mergulhando no mundo da programação e explorando novas linguagens e frameworks. Meu objetivo é aprimorar minhas habilidades e contribuir para projetos interessantes e desafiadores.
 
 ## 💡 Interesses:
 
@@ -35,4 +36,3 @@
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=01Lucasena&show_icons=true&theme=onedark"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Lucasena&show_progress=true&theme=onedark">
 
-#### Vamos codar juntos! 💻✨
