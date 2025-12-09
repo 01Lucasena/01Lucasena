@@ -1,5 +1,3 @@
-<img width="1161" height="418" alt="Captura de tela 2025-08-27 144804" src="https://github.com/user-attachments/assets/9acf078d-9024-4290-9cc6-fd6f004b094d" />
-
 
 # Olá! Eu sou Lucas Sena 
 
