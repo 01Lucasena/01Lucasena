@@ -56,10 +56,9 @@ Sou um estudante de Desenvolvimento de Sistemas apaixonado por criar soluções 
 
 Estou sempre aberto a novas conexões e oportunidades de colaboração. Sinta-se à vontade para entrar em contato através dos canais abaixo:
 
-- [Portfólio](https://lucasenaportifolio.netlify.app/)
 - [WhatsApp](https://wa.me/5577988048026)
 - [E-mail](mailto:lucasena020@gmail.com)
-- [Instagram](https://www.instagram.com/iamlucasena/)
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=01Lucasena&style=flat-square&color=blue" alt="Visualizações do perfil"/>
